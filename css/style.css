@@ -1,20 +1,36 @@
-.profile .profile-name {}
+.profile .profile-name {
+}
 
 .side-menu-title {
-    font-size: 14px;
-    color: #fff;
+  font-size: 14px;
+  color: #fff;
 }
 
 .side-menus ul li,
 .side-menus ul li a {
-    font-size: 12px;
+  font-size: 12px;
 }
 
 .side-menus ul li:hover {
-    background: #fff;
+  background: #fff;
 }
 
 .footer,
 .footer ul li a {
-    color: #d4d4d4;
+  color: #d4d4d4;
+}
+
+a.link {
+  color: #52b1c0;
+  font-weight: bold;
+}
+
+a.subscribed {
+  color: #7a8822;
+  font-weight: bold;
+}
+
+a.invite {
+  color: #d14d3a;
+  font-weight: bold;
 }
