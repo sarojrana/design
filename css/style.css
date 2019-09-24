@@ -1,0 +1,20 @@
+.profile .profile-name {}
+
+.side-menu-title {
+    font-size: 14px;
+    color: #fff;
+}
+
+.side-menus ul li,
+.side-menus ul li a {
+    font-size: 12px;
+}
+
+.side-menus ul li:hover {
+    background: #fff;
+}
+
+.footer,
+.footer ul li a {
+    color: #d4d4d4;
+}
