@@ -215,7 +215,8 @@
   background: url('../images/nav.png') no-repeat;
 }
 
-.content-nav ul li a.active {
+.content-nav ul li a.active,
+.content-nav ul li a:hover {
   background: url('../images/nav-active.png') no-repeat;
 }
 
